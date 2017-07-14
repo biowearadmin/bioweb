@@ -1,0 +1,35 @@
+{
+  "name": "jke-d3-ecg",
+  "license": "Apache",
+  "keywords": [
+    "d3",
+    "ecg"
+  ],
+  "main": [
+    "dist/jke-d3-ecg.min.js",
+    "dist/jke-d3-ecg.css"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "demo",
+    "node_modules",
+    "Gruntfile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "d3": "~3.3.13",
+    "jquery-ui": "~1.10.3"
+  },
+  "homepage": "https://github.com/joakimkemeny/jke.d3.ecg",
+  "_release": "c1c3396f64",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c1c3396f6485670408831d28a73810021073162e"
+  },
+  "_source": "https://github.com/joakimkemeny/jke.d3.ecg.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/joakimkemeny/jke.d3.ecg.git",
+  "_direct": true
+}
